@@ -9,3 +9,7 @@ print("nama anda adalah",nama)
 umur = tahun_skr - tahun_lahir
 print("umur anda adalah",umur)
 print("====================================================")
+
+print("wleeeeeeeeeeee")
+print("wleeeeeeeeeeee")
+print("wleeeeeeeeeeee")
